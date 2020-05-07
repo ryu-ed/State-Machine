@@ -10,7 +10,7 @@ Programa que dado un diagrama de transición y una tabla de transición, mande u
 ![alt text](https://github.com/ryu-ed/State-Machine/raw/master/images/TT.PNG " ")
 
 
-Programa que muestra la una captura de pantalla en donde ingresamos una cadena <X> y nos manda el resultado.
+Programa que muestra una captura de pantalla en donde ingresamos una cadena <X> y nos manda el resultado.
 ![alt text](https://github.com/ryu-ed/State-Machine/raw/master/images/aceptada.PNG " ")
 ![alt text](https://github.com/ryu-ed/State-Machine/raw/master/images/noaceptada.PNG " ")
  

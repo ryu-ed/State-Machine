@@ -5,8 +5,7 @@ public class statemachines {
     
     public static void main (String [] args ){
        String s;
-     //String  s = new String("r1@333333333333312#");
-     //
+     
      Scanner teclado = new Scanner(System.in);
 
      System.out.print("Ingrese Cadena: ");
